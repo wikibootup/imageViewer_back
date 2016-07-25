@@ -1,0 +1,29 @@
+{
+  "name": "image-viewer",
+  "version": "1.0.0",
+  "description": "for Naver hackday",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "chai-http": "^3.0.0",
+    "connect": "^3.4.1",
+    "jquery": "^3.0.0",
+    "mocha": "^2.5.3",
+    "request": "^2.72.0",
+    "serve-static": "^1.11.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wikibootup/imageViewer.git"
+  },
+  "author": "wikibootup",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wikibootup/imageViewer/issues"
+  },
+  "homepage": "https://github.com/wikibootup/imageViewer#readme"
+}
